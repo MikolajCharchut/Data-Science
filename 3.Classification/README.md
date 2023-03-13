@@ -1,0 +1,2 @@
+# Classification
+Here are my two exercises with data classification. I used here word count vectors and logistic regression to predict the sentiment of strings. Amazon is a task from classes where we had straight tasks to do and it is about predicting sentiment of product reviews. StackOverflow is my own analysis on dataset I chose based on first task. That one is similar but on different dataset and in the end I used random forest and adaboost classifiers to compare them to logistic regression which one has the highest accuracy.
