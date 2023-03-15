@@ -1,2 +1,2 @@
-# Polynomial Regression
+## Polynomial Regression
 Here are my two exercises with training regression models. KCHouse is a task from classes where we had straight tasks to do. It was about train a model to predict square footage of a house for a given price. WalmartStoreSales is my own analysis on dataset I chose based on first task. In this one first I tried to find the best store (with highest weekly sales), find best features and try to make some predictions, but in this one I'm not sure if the dataset was suitable for that task.
